@@ -8,9 +8,9 @@ The 8-Week SQL Challenge is an immersive program designed to enhance SQL skills 
 
 ## Cases 📋
 
-1. [Case 1: Danny's Dinner Challenge](https://github.com/harshali-2001/8-Week_SQL/blob/main/Case%231%20-%20Danny's%20Dinner/README.md)
-2. [Case 2: Pizza Runner]() (Work in Progress)
-3. [Case 3: Foodie Fi]() (Work in Progress)
+1. [Case 1: Danny's Dinner Challenge](https://github.com/harshali-2001/8-Week_SQL/blob/main/Case%231%20-%20Danny's%20Dinner/README.md) 🍱🍣🍜
+2. [Case 2: Pizza Runner]() (Work in Progress) 🍕🍔
+3. [Case 3: Foodie Fi]() (Work in Progress) 🥑🍄
 
 ## How to Navigate 🗺️
 
