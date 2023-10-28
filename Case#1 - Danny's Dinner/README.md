@@ -343,3 +343,11 @@ Group by S.customer_id;
 - Total points for Customer A and B are 1,370 and 820 respectivly.
 
 ***
+## Connect with Me 🌐
+
+If you'd like to learn more about my work, connect with me on the following platforms:
+- [Portfolio](https://harshali-2001.github.io/HarshaliPortfolio/) 📌
+- [GitHub](https://github.com/harshali-2001) 🐙
+- [LinkedIn](https://www.linkedin.com/in/harshalihood/) 📎
+
+Feel free to reach out with any questions or feedback! 📬
